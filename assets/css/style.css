@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+	background: orange;
+	color: white;
+	padding: 10px;
+}
+
+#instructions {
+	background: #fee7ca;
+	color: green;
+	padding: 20px;
+}
+
+
+#randomScore {
+	background: lightgreen;
+	padding: 30px;
+	color: purple;
+	font-size: 30px;
+}
+
+#winsLosses {
+	background: lightblue;
+	padding: 10px;
+
+}
+
+#ts {
+	background: darkcyan;
+	padding: 5px;
+	color: white;
+}
+
+#yourScore {
+	background: darkcyan;
+	padding: 30px;
+	color: white;
+	font-size: 30px;
+}
+
+img {
+	padding:10px;
+}
