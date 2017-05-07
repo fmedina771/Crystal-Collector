@@ -1,43 +1,61 @@
 h1 {
-	text-align: center;
-	background: orange;
-	color: white;
-	padding: 10px;
+    text-align: center;
+    background: orange;
+    color: white;
+    padding: 10px;
 }
 
 #instructions {
-	background: #fee7ca;
-	color: green;
-	padding: 20px;
+    background: #fee7ca;
+    color: green;
+    padding: 20px;
+    font-size: 18px;
 }
 
-
 #randomScore {
-	background: lightgreen;
-	padding: 30px;
-	color: purple;
-	font-size: 30px;
+    background: lightgreen;
+    padding: 30px;
+    color: purple;
+    font-size: 30px;
 }
 
 #winsLosses {
-	background: lightblue;
-	padding: 10px;
-
+    background: lightblue;
+    padding: 10px;
+    font-size: 18px;
 }
 
 #ts {
-	background: darkcyan;
-	padding: 5px;
-	color: white;
+    background: darkcyan;
+    padding: 5px;
+    color: white;
+    font-size: 18px;
 }
 
 #yourScore {
-	background: darkcyan;
-	padding: 30px;
-	color: white;
-	font-size: 30px;
+    background: darkcyan;
+    padding: 30px;
+    color: white;
+    font-size: 30px;
 }
 
 img {
-	padding:10px;
+    padding: 10px;
+}
+
+body {
+    background-image: url("../images/bg.png");
+    background-repeat: repeat;
+}
+
+#match {
+    background: lightgreen;
+    color: purple;
+    font-size: 18px;
+    padding: 5px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 18px;
 }
